@@ -17,6 +17,9 @@ function checkAnim(summary){
     case 'Thunderstorm':
       $('.thunderVideo').css('display', 'block')
       break
+    case 'Snow':
+      $('.snowVideo').css('display', 'block')
+      break    
     default:
       $('.weathervideo').css('display', 'none')
 
@@ -168,8 +171,6 @@ let weather = {
 
 
 
-
-          //animations
 
 
           
