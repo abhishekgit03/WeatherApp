@@ -29,4 +29,4 @@ Html,CSS and Javascript knowledge is enough for understanding this project. You 
 ![Screenshot 2022-01-01 185818](https://user-images.githubusercontent.com/92089364/147852950-73f1a9e8-501f-4b89-97e8-c99ca806e56b.png)
 
 ## Note : 
-Enable location access before accessing the site. My website link is:(https://weathersearch.vercel.app/)
+Enable location access before accessing the site. My website link is: https://weathersearch.vercel.app/ 
