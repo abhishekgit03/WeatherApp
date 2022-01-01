@@ -7,6 +7,7 @@ I have build a dynamic weather website using just HTML,CSS and Javascript where 
 * Temperature 
 * Humidity
 * Wind Speed
+
 The application uses OpenWeather API for fetching real time data and insights about the weather of a particular location.
 Besides it also shows some animation on the background based on the weather of the city. There are 4 sets of animations namely:
 * RainVideo - Shows rain drops in background when the Main weather is Rain.
