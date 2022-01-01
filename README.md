@@ -19,7 +19,7 @@ Background Images are generated related to the city as and when found from the i
 ## Prerequisites/Dependecies
 Html,CSS and Javascript knowledge is enough for understanding this project. You will be required to generate an API from OpenWeather Portal using which you will be able to fetch the data.
 
-##Screenshots:
+## Screenshots:
 
 
 ![Screenshot 2022-01-01 190151](https://user-images.githubusercontent.com/92089364/147852944-0a977856-8702-48a5-91b9-2aaa903757b4.png)
