@@ -14,5 +14,8 @@ Besides it also shows some animation on the background based on the weather of t
 * SnowVideo - Shows snowflaskes in background when the Main weather is Snow.
 * HazeVideo - Shows fog/haze in background when the Main weather is Haze.
 * CloudVideo- Shows clouds in background when the Main weather is Cloudy.
+
+Background Images are generated related to the city as and when found from the internet automatically.
 ## Prerequisites/Dependecies
-Html,CSS and Javascript knowledge is enough for understanding this project
+Html,CSS and Javascript knowledge is enough for understanding this project. You will be required to generate an API from OpenWeather Portal using which you will be able to fetch the data.
+
